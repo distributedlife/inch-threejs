@@ -1,6 +1,6 @@
 {
   "name": "inch-threejs",
-  "version": "0.68.0",
+  "version": "0.69.0",
   "description": "Pulls in the latest known three.js version that works with the inch framework.",
   "main": "three.js",
   "repository": {
