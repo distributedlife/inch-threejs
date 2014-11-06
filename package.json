@@ -1,0 +1,24 @@
+{
+  "name": "inch-threejs",
+  "version": "1.0.0",
+  "description": "Pulls in the latest known three.js version that works with the inch framework.",
+  "main": "three.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/distributedlife/inch-threejs.git"
+  },
+  "keywords": [
+    "inch",
+    "three",
+    "game"
+  ],
+  "author": "Ryan Boucher",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/distributedlife/inch-threejs/issues"
+  },
+  "homepage": "https://github.com/distributedlife/inch-threejs"
+}
