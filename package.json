@@ -1,11 +1,11 @@
 {
-  "name": "inch-threejs",
+  "name": "ensemblejs-threejs",
   "version": "0.71.0",
-  "description": "Pulls in the latest known three.js version that works with the inch framework.",
+  "description": "Pulls in the latest known three.js version that works with the ensemble framework.",
   "main": "three.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/distributedlife/inch-threejs.git"
+    "url": "https://github.com/ensemblejs/threejs.git"
   },
   "keywords": [
     "inch",
@@ -15,7 +15,7 @@
   "author": "Ryan Boucher",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/distributedlife/inch-threejs/issues"
+    "url": "https://github.com/ensemblejs/threejs/issues"
   },
-  "homepage": "https://github.com/distributedlife/inch-threejs"
+  "homepage": "https://github.com/ensemblejs/threejs"
 }

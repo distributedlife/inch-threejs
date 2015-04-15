@@ -1,9 +1,7 @@
-# inch-threejs
-The inch framework makes use of three.js for all webgl stuff. The npm package for three isn’t latest. This package pulls in the latest one that’s known to work.
+# threejs
+The Ensemble framework can use the [three.js](http://threejs.org) rendering engine. This npm package for [three.js](http://threejs.org) isn’t the latest three.js version. This package pulls in the latest version that’s known to work.
 
 # Usage
 ```javascript
-var THREE = require(‘inch-threes’);
-
-# The inch Framework
-This repository is just one part of the icnh game framework. I wanted a modularised game framework (like [voxel.js](http://voxeljs.com) or [crtrdg](http://crtrdg.com/) but one that follows my needs as a game developer. I’m sure it’s even possible to mix and match the modules from the above into the inch framework.
+var THREE = require('ensemblejs-threejs');
+```
