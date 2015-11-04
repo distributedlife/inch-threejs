@@ -1,6 +1,6 @@
 {
   "name": "ensemblejs-threejs",
-  "version": "0.72.0",
+  "version": "0.73.0",
   "description": "Pulls in the latest known three.js version that works with the ensemble framework.",
   "main": "three.js",
   "repository": {
